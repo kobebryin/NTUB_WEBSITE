@@ -1772,7 +1772,7 @@ only screen and (                min-resolution: 2dppx) {
   width: 34px;
   height: 24px;
   margin: 0 auto;
-  background: url("images/sprite.png") top left no-repeat;
+  background: url("../../images/ic_2.png") top left no-repeat;
 }
 .testimonials li.testimonial blockquote footer {
   margin-top: 30px;

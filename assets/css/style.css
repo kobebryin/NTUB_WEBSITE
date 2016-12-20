@@ -1467,6 +1467,7 @@ hr.double {
 }
 .full-width.flush-top {
   padding-top: 0px;
+  padding-bottom: 0px;
 }
 .full-width .heading {
   display: block;
